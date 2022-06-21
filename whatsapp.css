@@ -1,0 +1,373 @@
+.topsection{
+
+width: 100%;
+height: 91px;
+background-color: #128c7e;
+position: fixed;
+
+}
+
+body{
+    margin: 0%;
+}
+
+.whatsapplogo{
+
+    float: left;
+    padding-left: 151px;
+    float: left;
+    padding-top: 20px;
+    width: 45px;
+}
+
+.whatsapptext{
+        
+        padding-left: 1px;
+        text-decoration: none;
+        font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-weight: 655;
+        font-size: 24px;
+        color: white;
+        padding-top: 29px;
+        float: left;
+}
+
+
+
+.topright{
+   float: left;
+   font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+font-weight: 400;
+}
+.tablemod{
+
+    padding-left: 45px;
+    padding-top: 33px;
+    color: white;
+    
+}
+
+.tabletext{
+    color: white;
+
+    text-decoration: none;
+    padding-left: 51px;
+}
+
+.dropdown{
+    cursor: pointer;
+    padding-left: 5px;
+}
+
+.middlesection{
+    width: 100%;
+    height: 688px;
+    padding-top: 93px;
+}
+
+.middleleft{
+    float: left;
+}
+
+
+.middleleftcontent{
+
+    padding-left: 278px;
+    padding-top: 103px;
+}
+
+.middleleftcontenttext1{
+
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+font-size: 33px;
+}
+
+.middleleftcontenttext2{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 26px;
+
+}
+
+.middleleftcontenttext3{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #5E5E5E;
+    font-size: 16px;
+
+}
+.greensection{
+    cursor: pointer;
+}
+
+.logosalign{
+    list-style-type: none;
+    margin-block-start: 1em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+    line-height: 40px;
+    color: #1CB39B;
+
+}
+
+.logos{
+    float: left;
+}
+
+.greennames{
+    float: left;
+    
+}
+
+.greenunderline:hover{
+    text-decoration: underline;
+    color: #1CB39B;
+    
+}
+
+.greennamealign{
+    list-style-type: none;
+    margin-block-start: 0.65em;
+    margin-block-end: 0em;
+    margin-inline-start: 20px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+    line-height: 35px;
+    color: #1CB39B;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;font-size: 19px;
+    
+
+}
+
+.greenarrows{
+    padding-left: 5px;
+   
+}
+
+.middleright{
+    float: left;
+}
+
+.imageright{
+    width: 302px;
+    padding-left: 107px;
+    padding-top: 59px;
+}
+
+.downsection{
+    
+    width: 100%;
+    height: 943px;
+    
+   }
+
+   .downleft{
+
+    width: 659px;
+    height: 943px;
+    background-color: #D8E8EA;
+    float: left;
+   }
+
+    .downlefttexts{
+        font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+        text-align: center;
+        padding-right: 30px;
+        padding-top: 69px;
+ }
+
+
+.downlefttext1{
+ font-weight: 700;
+ font-size: 34px;
+line-height: 44px;
+}
+
+     .downleftlinks{
+
+        text-decoration: none;
+color: #39b3ed;
+     }
+
+.downlefttext2{
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.downlefttext3{
+    font-size: 18px;
+    line-height: 26px;
+    padding-top: 23px;
+}
+
+
+.downleftimage{
+
+width: 373px;
+padding-top: 88px;
+
+}
+
+.downleftlinks:hover{
+
+    text-decoration: underline;
+ }
+
+
+.downright{
+
+    width: 659px;
+    height: 943px;
+    background-color: #E7F0E4;
+    float: right;
+}
+
+.imagedownright{
+
+padding-left: 79px;
+padding-top: 50px;
+    
+}
+
+.downrighttexts{
+
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-align: center;
+
+}
+
+.downrighttext1{
+
+    color: #5E5E5E;
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: .15em;
+}
+
+.downrighttext2{
+
+    font-size: 34px;
+    font-weight: 700;
+
+}
+
+.downrighttext3{
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.bottomsection{
+
+    width: 100%;
+    height: 184px;
+    
+    
+ 
+}
+
+.buttonstyle{
+ background-color: transparent;
+ border: 2px solid #77d7c8;
+ border-radius: 40px;
+ font-size: 16px;
+    font-weight: 400;
+    line-height: 300%;
+    color: #128c7e;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, Helvetica Neue, Helvetica, Arial, sans-serif;
+ width: 200px;
+  cursor: pointer;
+
+}
+
+.button{
+
+    padding-left: 562px;
+    padding-top: 56px;
+   
+}
+
+.bottomsection2{
+
+   width: 100%;
+   height: 345px;
+   background-color: #273443;
+   font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+   color: white;
+}
+
+.headlist li{
+
+    list-style: none;
+font-weight: 700;
+display: inline;
+
+padding: 70px;
+
+}
+
+.headlist{
+    padding-left: 121px;
+    padding-top: 54px;
+}
+
+.bottom2list1 li{
+
+    list-style: none;
+    padding: 6px;
+
+}
+
+.bottom2list1{
+    padding-left: 187px;
+    padding-top: 5px;
+    float: left;
+}
+
+
+.bottom2list2 li{
+
+    list-style: none;
+    padding: 6px;
+
+}
+
+.bottom2list2{
+    padding-left: 112px;
+    padding-top: 5px;
+    float: left;
+}
+
+
+.bottom2list3 li{
+
+    list-style: none;
+    padding: 6px;
+
+}
+
+.bottom2list3{
+    padding-left: 84px;
+    padding-top: 5px;
+    float: left;
+}
+
+.bottom2list4 li{
+
+    list-style: none;
+    padding: 6px;
+    
+}
+
+.bottom2list4{
+    padding-left: 170px;
+    padding-top: 5px;
+    float: left;
+}
+.footerunderline:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+
